@@ -1,0 +1,18 @@
+{
+	"geode": "4.6.3",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "gtxx9903.confirm_restart",
+	"name": "Confirm Restart",
+	"version": "v1.0.0",
+	"developer": "gtxx9903",
+	"description": "Adds a comfirmation warning when clicking the restart button",
+	"tags": [
+		"offline",
+		"enhancement"
+	]
+}
